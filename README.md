@@ -1,47 +1,48 @@
-<!-- Banner Section (Uncomment if you have a custom banner image) -->
-<!-- ![Header](https://raw.githubusercontent.com/4l3xxx/4l3xxx/main/assets/header.png) -->
-
-<h1 align="center">Hi, I'm Alex 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | Full-Stack Web Developer</h3>
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4l3xxx&color=blue&style=flat-square" alt="Visitor count" />
+  <img src="https://raw.githubusercontent.com/4l3xxx/4l3xxx/main/assets/header.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F35626&background=FFFFFF00&center=true&width=435&lines=Hi,+I'm+Alex+👋;Data+Scientist+%7C+Web+Developer;Turning+Data+into+Impactful+Solutions" alt="Typing SVG">
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4l3xxx&color=blueviolet&style=for-the-badge" alt="Visitor count" />
 </p>
 
 ---
 
 <p align="center">
-  🚀 <b>Turning Data into Actionable Insights & Impactful Solutions</b> 🚀
-</p>
-<p align="center">
-  <b>Based in Indonesia | Open for Collaboration & Opportunities</b>
+  <img src="https://img.shields.io/badge/Indonesia-Place%20of%20Innovation-blue?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Open%20for%20Collaboration-Yes-brightgreen?style=for-the-badge&logo=handshake" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 **Information Systems student** at President University
-- 🔬 **Machine Learning & Web Development Enthusiast**
-- 🌱 Focus: Python, Django, React, Golang, Flutter, Cloud, Data Science
-- 💡 Passionate about transforming data into impactful solutions
+- 🎓 **Information Systems @ President University**
+- 💻 **Machine Learning & Full-Stack Web Enthusiast**
+- 🛠️ Python | Django | React | Golang | Flutter | Cloud | Data Science
 - 🌿 Nature explorer & sport lover
+- 🔥 Fueled by curiosity, creativity, and collaboration
 
 ---
 
-## 🏆 Highlights & Achievements
-
-- 🥇 **Top 1% Data Science Student** (President University)
-- 🏅 **Awarded “Best ML Solution”** at [insert competition/event]
-- ⭐ **Speaker at TechTalks Indonesia** on AI & Data Analytics
-- 🏆 [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=4l3xxx&theme=radical&row=1&column=6)
+## 🏆 Achievements & Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=4l3xxx&theme=radical&row=1&column=6" alt="Trophy" />
 </p>
 
+- 🥇 **Top 1% Data Science Student** @ President University
+- 🏅 **Best ML Solution** – [insert event/competition]
+- ⭐ **Speaker** @ TechTalks Indonesia: AI & Data Analytics
+
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 | Project | Tech & Highlights |
 |---------|------------------|
@@ -49,54 +50,49 @@
 | [Academic Scheduling App](https://github.com/4l3xxx/schedule-optimization) | Django, React, ML |
 | [COVID-19 Dashboard](https://github.com/4l3xxx/covid-dashboard) | Looker Studio, Data Visualization |
 
-> _Explore more projects at my [GitHub Portfolio](https://github.com/4l3xxx?tab=repositories)_
+> _See all my works in the [GitHub Portfolio](https://github.com/4l3xxx?tab=repositories)!_
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,go,flutter,postgres" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4l3xxx&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4l3xxx&layout=compact&theme=radical" height="150" />
   <br>
   <img src="https://streak-stats.demolab.com?user=4l3xxx&theme=radical" height="150" />
+  <br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=4l3xxx" height="120" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexander-m-sinurat">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/alexander.12.27?igsh=MTA3bGxsejcxeGxmcw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:alexanderboymarisi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-size: 1.2em;">
-✨ <b>"Code. Learn. Share. Inspire."</b> ✨
+<p align="center" style="font-size:1.3em;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F35626&background=FFFFFF00&center=true&width=435&lines=Code.+Learn.+Share.+Inspire." alt="typing effect" />
 </p>
 
 ---
