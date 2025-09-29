@@ -14,7 +14,7 @@ Currently focusing on **Python, Django, React, Golang, Flutter, and Machine Lear
 - 🔭 Currently working on **Machine Learning & Web Development Projects**  
 - 🌱 Learning **Golang, Cloud Deployment, and Advanced Data Science**  
 - 💡 Passionate about turning data into **actionable insights**  
-- ⚡ Fun fact: I love exploring nature 🌿 and spotting Man 🦋  
+- ⚡ Fun fact: I love exploring nature 🌿 and sport  
 
 ---
 
